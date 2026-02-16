@@ -1,0 +1,21 @@
+{
+  "LSTM_forecasting": {
+    "MAE": 15.83,
+    "RMSE": 19.99,
+    "MAPE (%)": 2.56,
+    "R2": 0.981
+  },
+  "peak_detection": {
+    "Precision": 0.836,
+    "Recall": 0.92,
+    "F1-Score": 0.876,
+    "Accuracy": 0.987
+  },
+  "demand_response": {
+    "Average_Load_Reduction_kW": 97.93,
+    "Peak_Reduction_%": 15.0,
+    "Cost_Savings_%": 15.0,
+    "Carbon_Savings_%": 15.0,
+    "Total_Cost_Savings_$": 13716.48
+  }
+}
